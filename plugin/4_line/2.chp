@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Chprompt
+# https://github.com/Senzdetta/Chprompt
 
 [Preview]
 \x1b[0m\n
@@ -42,4 +42,4 @@ $(command hostname)
 \[\033[0m\]%space%
 [END]
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

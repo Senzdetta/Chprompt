@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Chprompt
+# https://github.com/Senzdetta/Chprompt
 
 function utils::invalidOption() {
     local input="${1}"
@@ -7,4 +7,4 @@ function utils::invalidOption() {
     return 1
 }
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

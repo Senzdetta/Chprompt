@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Chprompt
+# https://github.com/Senzdetta/Chprompt
 
 function module::ShowPS1() {
     local arg1="${1}"
@@ -33,4 +33,4 @@ function module::ShowPS1() {
     return 0
 }
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

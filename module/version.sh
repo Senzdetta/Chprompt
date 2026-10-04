@@ -1,10 +1,10 @@
-# https://github.com/Zeronetsec/Chprompt
+# https://github.com/Senzdetta/Chprompt
 
 function module::Version() {
     local name="Chprompt"
     local version="v0.1.04102026"
-    local creator="Zeronetsec"
-    local homepage="https://github.com/Zeronetsec/Chprompt"
+    local creator="Senzdetta"
+    local homepage="https://github.com/Senzdetta/Chprompt"
 
     echo -e "${color_N}Name: ${color_GG}${name}${color_N}"
     echo -e "${color_N}Version: ${color_GG}${version}${color_N}"
@@ -14,4 +14,4 @@ function module::Version() {
     return 0
 }
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

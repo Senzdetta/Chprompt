@@ -1,5 +1,5 @@
 #!/usr/bin/env perl
-# https://github.com/Zeronetsec/Chprompt
+# https://github.com/Senzdetta/Chprompt
 
 use strict;
 use warnings;
@@ -116,4 +116,4 @@ if (
 my $keywords = load_patterns($PATTERN_PATH);
 scan_plugin($PLUGIN_PATH, $keywords);
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Chprompt
+# https://github.com/Senzdetta/Chprompt
 
 function utils::birthday() {
     local birth_date="03-10"
@@ -9,4 +9,4 @@ function utils::birthday() {
     fi
 }
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

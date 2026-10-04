@@ -1,5 +1,5 @@
 #!/usr/bin/env perl
-# https://github.com/Zeronetsec/Chprompt
+# https://github.com/Senzdetta/Chprompt
 
 use strict;
 use warnings;
@@ -38,4 +38,4 @@ sub uwu {
 
 uwu();
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

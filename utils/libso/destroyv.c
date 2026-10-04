@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Chprompt
+// https://github.com/Senzdetta/Chprompt
 
 #ifdef __ANDROID__
     #include <config.h>
@@ -116,4 +116,4 @@ struct builtin destroyv_struct = {
     0
 };
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

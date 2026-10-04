@@ -1,5 +1,5 @@
 #!/usr/bin/env perl
-# https://github.com/Zeronetsec/Chprompt
+# https://github.com/Senzdetta/Chprompt
 
 use strict;
 use warnings;
@@ -48,4 +48,4 @@ for my $file_path (glob($metadata_path)) {
     }
 }
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

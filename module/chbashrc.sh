@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Chprompt
+# https://github.com/Senzdetta/Chprompt
 
 function module::Chbashrc() {
     local home="${1}"
@@ -15,4 +15,4 @@ function module::Chbashrc() {
     echo -e "${color_B}[*] ${color_N}Set bashrc: ${color_GG}${home}${color_N}"
 }
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

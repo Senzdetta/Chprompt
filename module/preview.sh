@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Chprompt
+# https://github.com/Senzdetta/Chprompt
 
 function module::Preview() {
     local arg1="${1}"
@@ -33,4 +33,4 @@ function module::Preview() {
     return 0
 }
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

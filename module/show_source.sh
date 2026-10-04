@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Chprompt
+# https://github.com/Senzdetta/Chprompt
 
 function module::ShowSource() {
     local arg1="${1}"
@@ -28,11 +28,11 @@ function module::ShowSource() {
         --color=always \
         --language=bash \
         --plain | \
-            command grep -v 'https://github.com/Zeronetsec/' | \
+            command grep -v 'https://github.com/Senzdetta/' | \
             command grep -v 'Copyright (c)'
     )"
 
     return 0
 }
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

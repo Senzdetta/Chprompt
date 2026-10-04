@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Chprompt
+# https://github.com/Senzdetta/Chprompt
 
 function module::Chuser() {
     local target="${root}/plugin"
@@ -26,4 +26,4 @@ function module::Chuser() {
     return 0
 }
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

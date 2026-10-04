@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Chprompt
+# https://github.com/Senzdetta/Chprompt
 
 curl
 wget
@@ -27,4 +27,4 @@ id_rsa
 chattr
 chmod
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

@@ -9,7 +9,7 @@
 
 ### Usage
 ```bash
-git clone https://github.com/Zeronetsec/Chprompt
+git clone https://github.com/Senzdetta/Chprompt
 bash Chprompt/install.sh <options>
 ```
 

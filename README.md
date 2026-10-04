@@ -24,7 +24,7 @@ The author is not responsible for any damage, data loss, or issues that may resu
 ## Installation
 Quick install:
 ```bash
-git clone https://github.com/Zeronetsec/Chprompt
+git clone https://github.com/Senzdetta/Chprompt
 bash Chprompt/install.sh
 ```
 For more detailed installation and uninstallation instructions, see [.docs/install_and_uninstall.md](.docs/install_and_uninstall.md).

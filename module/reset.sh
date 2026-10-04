@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Chprompt
+# https://github.com/Senzdetta/Chprompt
 
 function module::Reset() {
     if [[ ! -f "${root}/plugin_backup.zip" ]]; then
@@ -22,4 +22,4 @@ function module::Reset() {
     return 0
 }
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

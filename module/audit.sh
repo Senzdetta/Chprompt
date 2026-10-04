@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Chprompt
+# https://github.com/Senzdetta/Chprompt
 
 function module::Audit() {
     local engine="${root}/utils/perl/audit_plugin.pl"
@@ -22,4 +22,4 @@ function module::Audit() {
     return 0
 }
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

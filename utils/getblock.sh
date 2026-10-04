@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Chprompt
+# https://github.com/Senzdetta/Chprompt
 
 function utils::getblock() {
     local sec="${1}"
@@ -11,4 +11,4 @@ function utils::getblock() {
     ' "${file}"
 }
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

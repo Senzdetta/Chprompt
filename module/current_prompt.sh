@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Chprompt
+# https://github.com/Senzdetta/Chprompt
 
 function module::CurrentPrompt() {
     local cprompt=$(
@@ -14,4 +14,4 @@ function module::CurrentPrompt() {
     module::Preview "${cprompt}"
 }
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

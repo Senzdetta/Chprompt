@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Chprompt
+# https://github.com/Senzdetta/Chprompt
 
 function utils::banner() {
     local banner="${root}/data/banner.txt"
@@ -8,4 +8,4 @@ function utils::banner() {
     printf '\n'
 }
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

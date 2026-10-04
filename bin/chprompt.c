@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Chprompt
+// https://github.com/Senzdetta/Chprompt
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -107,4 +107,4 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

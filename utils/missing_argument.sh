@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Chprompt
+# https://github.com/Senzdetta/Chprompt
 
 function utils::missingArgument() {
     echo -e "${color_R}[!] ${color_N}Missing argument!"
@@ -6,4 +6,4 @@ function utils::missingArgument() {
     return 1
 }
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

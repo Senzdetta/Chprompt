@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Chprompt
+# https://github.com/Senzdetta/Chprompt
 
 function chprompt() {
     export root="$(command chprompt 2>/dev/null)"
@@ -176,4 +176,4 @@ function chprompt() {
     return ${excode}
 }
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

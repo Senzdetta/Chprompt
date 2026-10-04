@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Chprompt
+# https://github.com/Senzdetta/Chprompt
 
 function utils::cprompt() {
     local cprompt=$(
@@ -8,4 +8,4 @@ function utils::cprompt() {
     echo -e "${cprompt}"
 }
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta
