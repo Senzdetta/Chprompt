@@ -1,5 +1,3 @@
-<!-- https://github.com/Zeronetsec/Chprompt -->
-
 # Installation
 `install.sh` optional options (can be used together):
 - `--home=<path>`
@@ -31,5 +29,3 @@ bash Chprompt/install.sh <options>
 export prefix="${PREFIX:-/usr}"
 bash $prefix/opt/chprompt/uninstall.sh <options>
 ```
-
-<!-- Copyright (c) 2026 Zeronetsec -->

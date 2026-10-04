@@ -1,5 +1,3 @@
-<!-- https://github.com/Zeronetsec/Chprompt -->
-
 <div align="center">
     <img src="https://img.shields.io/badge/Chprompt-Version%200.1-blue?style=square&logo=c&logoColor=blue&v=1" />
     <img src="https://img.shields.io/badge/Supported%20OS-Linux-blue?style=square&logo=linux&v=1" />
@@ -40,5 +38,3 @@ chprompt --show-source 2/52
 chprompt --show-ps1 2/52
 ```
 And more commands.
-
-<!-- Copyright (c) 2026 Zeronetsec -->
