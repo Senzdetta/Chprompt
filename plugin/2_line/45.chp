@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Chprompt
+# https://github.com/Senzdetta/Chprompt
 
 [Preview]
 \x1b[0m\n
@@ -35,4 +35,4 @@ $(EXIT_CODE=${?}; if [[ ${EXIT_CODE} -eq 0 ]]; then echo -e "\[\033[1;32m\]λ"; 
 \[\033[0m\]%space%
 [END]
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta
