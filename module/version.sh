@@ -2,7 +2,7 @@
 
 function module::Version() {
     local name="Chprompt"
-    local version="v0.1.04102026"
+    local version="v0.1.06102026"
     local creator="Senzdetta"
     local homepage="https://github.com/Senzdetta/Chprompt"
 
