@@ -17,23 +17,20 @@ sub uwu {
         "(=^･ω･^=)"
     );
 
+    my $fixface = "(・ω・)";
     my $delay = 0.2;
     my $duration = 5;
     my $start_time = time();
 
     print "\x1b[?25l";
-
     while ((time() - $start_time) < $duration) {
         foreach my $face (@faces) {
-            last if (
-                time() - $start_time
-            ) >= $duration;
+            last if (time() - $start_time) >= $duration;
             print "\r${face}\x1b[K";
             sleep($delay);
         }
     }
-
-    print "\x1b[?25h\n";
+    print "\r${fixface}\x1b[K\x1b[?25h\n";
 }
 
 uwu();
