@@ -21,7 +21,7 @@ function install::installer() {
         "Compiling: ${color_GG}${targetins}${color_N}"
 
     local clibs
-    command mapfile -t clibs < <(
+    builtin mapfile -t clibs < <(
         command ls \
             "${opt}/${targetins}/utils/libso/" \
             --color=never \
