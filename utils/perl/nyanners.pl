@@ -1,4 +1,4 @@
-#!/usr/bin/env perl
+{{ shebang::perl }}
 # https://github.com/Senzdetta/Chprompt
 
 use strict;

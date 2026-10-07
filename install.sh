@@ -38,6 +38,7 @@ include : '(
     .install/postins
     .install/symlink
     .install/zsymlink
+    .install/extern/set_shebang
 )'
 
 HOME="${HOME}"

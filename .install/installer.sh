@@ -1,4 +1,6 @@
 function install::installer() {
+    install::extern::setShebang
+
     (
         cd "${opt}/${targetins}"
         install::getinstall \
