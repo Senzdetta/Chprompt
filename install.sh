@@ -35,7 +35,7 @@ include : '(
     .install/zparser
     .install/chmod
     .install/backup
-    .install/postins
+    .install/rmov
     .install/symlink
     .install/zsymlink
     .install/extern/set_shebang
@@ -57,7 +57,7 @@ done
 install::inpackages
 install::prepdir
 install::backup
-install::postins
+install::rmov
 install::installer
 install::symlink
 install::chmod
